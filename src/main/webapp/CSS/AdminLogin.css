@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.adminForm{
+	width:400px;
+}
+
+
+
+.control{
+	width:400px;
+	height:40px;
+	border-radius:12px;
+	padding:6px;
+}
+
+.formarea{
+	position:absolute;
+	left:500px;
+	top:100px;
+}
